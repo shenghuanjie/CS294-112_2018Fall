@@ -1,0 +1,31 @@
+\\
+expert_policy_file: ./experts/Humanoid-v2.pkl \\
+envname: Humanoid-v2 \\
+render: False \\
+max_timesteps: 1000 \\
+num_rollouts: 20 \\
+epochs: 300 \\
+dagger_runs: 10 \\
+verbose: False \\
+show_result: False \\
+demo: False \\
+section22: False \\
+section23: False \\
+section32: False \\
+section41: True \\
+\\ \\
+\begin{tabu} to 1.0\textwidth {  |X[c] |X[c] |X[c] | }
+\hline
+  & mean & std\\
+\hline
+expert  & 10410.3113272 & 34.5014719634\\
+\hline
+original  & 1627.43551917 & 1271.28443921\\
+\hline
+hidden_layers=6  & 627.643695252 & 173.365926011\\
+\hline
+layer_size=16  & 529.67947482 & 202.227319372\\
+\hline
+activation_func=tt.nn.tanh  & 597.21387704 & 144.390361908\\
+\hline
+\end{tabu}\\ \\

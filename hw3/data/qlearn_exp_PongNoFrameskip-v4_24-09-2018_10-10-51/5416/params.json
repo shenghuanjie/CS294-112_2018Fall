@@ -1,0 +1,13 @@
+{"batch_size"	:	32,
+"double_q"	:	true,
+"env_name"	:	"PongNoFrameskip-v4",
+"exp_name"	:	"exp",
+"frame_history_len"	:	4,
+"gamma"	:	0.99,
+"grad_norm_clipping"	:	10,
+"learning_freq"	:	4,
+"learning_starts"	:	50000,
+"replay_buffer_size"	:	1000000,
+"rew_file"	:	"atari_test.pk1",
+"seed"	:	5416,
+"target_update_freq"	:	10000}

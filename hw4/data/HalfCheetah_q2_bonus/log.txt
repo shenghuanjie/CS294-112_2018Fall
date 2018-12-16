@@ -1,0 +1,31 @@
+10-20 17:35:50 HalfCheetah_q2_bonus INFO     Gathering random dataset
+10-20 17:35:51 HalfCheetah_q2_bonus INFO     Creating policy
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     Random policy
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ---------  --------
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ReturnAvg  -147.093
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ReturnMax  -102.979
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ReturnMin  -186.081
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ReturnStd    27.542
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     ---------  --------
+10-20 17:36:14 HalfCheetah_q2_bonus DEBUG    
+10-20 17:36:14 HalfCheetah_q2_bonus DEBUG    : total      0.0 (100.0%)
+10-20 17:36:14 HalfCheetah_q2_bonus DEBUG    : other      0.0 (100.0%)
+10-20 17:36:14 HalfCheetah_q2_bonus DEBUG    
+10-20 17:36:14 HalfCheetah_q2_bonus INFO     Training policy....
+10-20 17:36:16 HalfCheetah_q2_bonus INFO     Evaluating policy...
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     Trained policy
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     -----------------  -----------
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     ReturnAvg          -11.5704
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     ReturnMax           18.5725
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     ReturnMin          -31.9431
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     ReturnStd           13.4393
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     TrainingLossFinal    0.0298326
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     TrainingLossStart    1.04421
+10-20 17:54:08 HalfCheetah_q2_bonus INFO     -----------------  -----------
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    : total      1074.8 (100.0%)
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    : get action 1070.9 (99.6%)
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    : train policy 2.7 (0.3%)
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    : env step   0.8 (0.1%)
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    : other      0.3 (0.0%)
+10-20 17:54:08 HalfCheetah_q2_bonus DEBUG    

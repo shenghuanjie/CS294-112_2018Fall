@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Q-Learning}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Question 1: basic Q-learning performance.}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Question 2: double Q-learning.}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Question 3: experimenting with hyperparameters.}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Actor-Critic}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Question 1: Sanity check with Cartpole}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Question 2: Run actor-critic with more difficult tasks}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Bonus}{}% 8

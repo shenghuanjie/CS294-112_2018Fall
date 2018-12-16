@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.2}{Behavioral Cloning}{}% 1
+\BOOKMARK [2][-]{subsection.2.2}{Comparison between behavioral cloning and expert policy}{section.2}% 2
+\BOOKMARK [2][-]{subsection.2.3}{Hyperparameter tuning in behavioral cloning}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{DAgger}{}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Comparison between behavior cloning and expert policy}{section.3}% 5
+\BOOKMARK [1][-]{section.4}{Policy architecture}{}% 6
+\BOOKMARK [2][-]{subsection.4.1}{Policy architecture of behavioral cloning}{section.4}% 7

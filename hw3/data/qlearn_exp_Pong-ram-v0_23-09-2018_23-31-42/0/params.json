@@ -1,0 +1,12 @@
+{"batch_size"	:	32,
+"env_name"	:	"Pong-ram-v0",
+"exp_name"	:	"exp",
+"frame_history_len"	:	1,
+"gamma"	:	0.99,
+"grad_norm_clipping"	:	10,
+"learning_freq"	:	4,
+"learning_starts"	:	50000,
+"replay_buffer_size"	:	1000000,
+"rew_file"	:	"ram_test.pk1",
+"seed"	:	0,
+"target_update_freq"	:	10000}

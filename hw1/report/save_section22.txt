@@ -1,0 +1,33 @@
+\\
+expert_policy_file: ./experts/Walker2d-v2.pkl \\
+envname: Walker2d-v2 \\
+render: False \\
+max_timesteps: 1000 \\
+num_rollouts: 20 \\
+epochs: 500 \\
+dagger_runs: 3 \\
+verbose: True \\
+show_result: False \\
+demo: False \\
+section22: True \\
+section23: False \\
+section32: False \\
+section41: False \\
+\\ \\
+\begin{tabu} to 1.0\textwidth {  |X[c] |X[c] |X[c] |X[c] |X[c] | }
+\hline
+  & exp(mean) & exp(std) & bc(mean) & bc(std)\\
+\hline
+Ant-v2  & 4823.29695049 & 100.901786378 & 4825.32305121 & 113.912392909\\
+\hline
+HalfCheetah-v2  & 4156.05753812 & 84.0206150233 & 4036.8770973 & 57.5965054852\\
+\hline
+Hopper-v2  & 3778.76327975 & 3.81153784634 & 2048.68181011 & 616.511458137\\
+\hline
+Humanoid-v2  & 10401.0887849 & 41.1015403998 & 2219.26290071 & 1302.88074545\\
+\hline
+Reacher-v2  & -4.2352842288 & 1.64987904813 & -6.63745779844 & 2.85103088194\\
+\hline
+Walker2d-v2  & 5493.56081726 & 101.030057252 & 3864.51042988 & 2407.76271112\\
+\hline
+\end{tabu}\\ \\
